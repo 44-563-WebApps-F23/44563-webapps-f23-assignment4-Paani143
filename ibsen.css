@@ -1,0 +1,26 @@
+.speech{
+    font-size: medium;
+    color: black;
+}
+.direction{
+    font-size: larger;color: black;
+    background-color: lightpink;
+    
+}
+.direction:hover{
+    background-color: rgb(153, 235, 166);
+    color: red;
+}
+.nurse{
+    font-family: 'Courier New', Courier, monospace;
+    font-size: medium;
+    color: green;
+}
+.nora{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: medium;
+    color: orange;
+}
+.name{
+    font-size: medium;
+}
