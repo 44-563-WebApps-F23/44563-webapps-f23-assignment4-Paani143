@@ -24,3 +24,24 @@
 .name{
     font-size: medium;
 }
+table{
+    border-collapse: collapse ;
+    text-align: center;
+}
+tbody th:nth-child(n){
+    background: cornsilk;
+    text-align: center;
+    padding: 20px;
+
+}
+tbody tr:nth-child(n+1){
+    background: lightblue;
+    text-align: center;
+    padding: 20px;
+}
+tbody td:nth-child(n){
+    padding: 20px;
+}
+tbody tr:nth-last-child(2n+2){
+    background: cornsilk ;
+}
