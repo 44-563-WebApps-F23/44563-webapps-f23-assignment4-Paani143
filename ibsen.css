@@ -24,6 +24,11 @@
 .name{
     font-size: medium;
 }
+.name:hover{
+    color: red;
+    text-shadow: 2px 2px 4px black;
+    border: solid 1px;
+}
 table{
     border-collapse: collapse ;
     text-align: center;
